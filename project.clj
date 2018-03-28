@@ -1,6 +1,6 @@
-(defproject kibu/pushy "0.3.8"
-  :description "HTML5 pushState for Clojurescript"
-  :url "https://github.com/kibu-australia/pushy"
+(defproject collbox/pushy "0.3.8"
+  :description "HTML5 pushState for Clojurescript (CollBox fork)"
+  :url "https://github.com/collbox/pushy"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
 
