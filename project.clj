@@ -1,4 +1,4 @@
-(defproject collbox/pushy "0.3.8"
+(defproject collbox/pushy "0.3.9"
   :description "HTML5 pushState for Clojurescript (CollBox fork)"
   :url "https://github.com/collbox/pushy"
   :license {:name "Eclipse Public License"
